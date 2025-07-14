@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://Hitansh.github.io/Responsive-Landing-Page/]
+- Live Site URL: [ https://hitansh2003.github.io/Responsive-Landing-Page/]
 
 ### Built with
 
